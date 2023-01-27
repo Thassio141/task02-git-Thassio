@@ -41,17 +41,23 @@ $ git clone url
 
 ## Aprendi boas praticas para nomeclatura de categoria de branch:
 
-**docs:** apenas mudanças de documentação;
-**feat:** uma nova funcionalidade;
-**fix:** a correção de um bug;
-**perf:** mudança de código focada em melhorar performance;
-**refactor:** mudança de código que não adiciona uma funcionalidade e também não corrigi um bug;
-**style:** mudanças no código que não afetam seu significado (espaço em branco, formatação, ponto e vírgula, etc);
-**test:** adicionar ou corrigir testes.
+**docs:** apenas mudanças de documentação;<br>
 
-## Aprendi novas funções como: 
+**feat:** uma nova funcionalidade;<br>
 
-# Git checkout -b
+**fix:** a correção de um bug;<br>
+
+**perf:** mudança de código focada em melhorar performance;<br>
+
+**refactor:** mudança de código que não adiciona uma funcionalidade e também não corrigi um bug;<br>
+
+**style:** mudanças no código que não afetam seu significado (espaço em branco, formatação, ponto e vírgula, etc);<br>
+
+**test:** adicionar ou corrigir testes.<br>
+
+# Aprendi novas funções como: 
+
+## Git checkout -b
 É utilizado para criar uma nova branch.
 
 ```shell
@@ -64,7 +70,7 @@ E tambem usado para mudar de branch
 $ git checkout nome-da-branch
 ```
 
-# Git rebase
+## Git rebase
 É utilizado para alterar um ou vários commit e também é possível unificar diversos commits em um único commit.
 
 
