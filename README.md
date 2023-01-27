@@ -74,7 +74,7 @@ E o git branch que é usado para verificar quais branches existem no seu projeto
 $ git branch 
 ```
 ### Exemplo: 
-# Adicionar Imagem Aqui
+![image](https://user-images.githubusercontent.com/73563601/215009333-36d4c983-d178-4ee5-b4c9-52acf3ce3fe3.png)
 
 ## Git rebase
 É utilizado para alterar um ou vários commit e também é possível unificar diversos commits em um único commit.
@@ -160,7 +160,7 @@ $ git stash list
 ## Git fetch && Git pull
 Neste caso há o uso de dois comando em uma linha , uma para buscar qualquer branch, arquivos e histórico da branch e o pull que tras as modificações do repositorio remoto para o diretorio em desenvolvimento.
 
-# Adicionar imagem aqui
+![image](https://user-images.githubusercontent.com/73563601/215009467-a8a0e3be-1e8d-4500-97d5-6c2ff18376a1.png)
 
 
 ## Arquivo .gitignore
@@ -169,7 +169,7 @@ Achei muito interessante e importante o arquivo gitignore já que previni que ce
 
 ### Exemplo: 
 
-# Adicionar imagem aqui
+![image](https://user-images.githubusercontent.com/73563601/215009447-5b2cce92-f316-488a-8579-05217101a1db.png)
 
 ## PR (Pull Request) e Merge
 
