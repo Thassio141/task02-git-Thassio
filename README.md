@@ -9,7 +9,7 @@ Criação de um novo projeto com o git:
 $ git init 
 ```
 
-Adcionar os arquivos na área de preparação:
+Adicionar os arquivos na área de preparação:
 ```shell
 $ git add .
 ```
